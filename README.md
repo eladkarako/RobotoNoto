@@ -3,12 +3,12 @@
 <strong>RobotoNoto</strong> is a mish-mash of Roboto and Noto font-family, 
 merged with the assist of FontForge.
 
-Based on <code>Roboto-Regular.ttf</code> &nbsp; <sub> https://github.com/google/roboto/releases </sub>, 
-with the addition of (in that order):
-<code>NotoSansHebrew-Regular</code> &nbsp; <sub> https://github.com/googlei18n/noto-fonts/blob/master/hinted/NotoSansHebrew-Regular.ttf </sub>, 
-<code>NotoSansSymbols-Regular</code> &nbsp; <sub> https://github.com/googlei18n/noto-fonts/blob/master/hinted/NotoSansSymbols-Regular.ttf </sub>, 
-<code>NotoSansSymbols2-Regular</code> &nbsp; <sub> https://github.com/googlei18n/noto-fonts/blob/master/phaseIII_only/hinted/ttf/NotoSansSymbols2/NotoSansSymbols2-Regular.ttf </sub>, 
-and <code>NotoEmoji-Regular</code> (old version of non-colorful emoji) &nbsp; <sub> https://github.com/googlei18n/noto-emoji/blob/master/fonts/NotoEmoji-Regular.ttf </sub>, 
+Based on <code>Roboto-Regular.ttf</code> &nbsp; <sub> https://github.com/google/roboto/releases </sub>, <br/>
+with the addition of (in that order): <br/>
+<code>NotoSansHebrew-Regular</code> &nbsp; <sub> https://github.com/googlei18n/noto-fonts/blob/master/hinted/NotoSansHebrew-Regular.ttf </sub>,  <br/>
+<code>NotoSansSymbols-Regular</code> &nbsp; <sub> https://github.com/googlei18n/noto-fonts/blob/master/hinted/NotoSansSymbols-Regular.ttf </sub>,  <br/>
+<code>NotoSansSymbols2-Regular</code> &nbsp; <sub> https://github.com/googlei18n/noto-fonts/blob/master/phaseIII_only/hinted/ttf/NotoSansSymbols2/NotoSansSymbols2-Regular.ttf </sub>,  <br/>
+and <code>NotoEmoji-Regular</code> (old version of non-colorful emoji) &nbsp; <sub> https://github.com/googlei18n/noto-emoji/blob/master/fonts/NotoEmoji-Regular.ttf </sub>,  <br/>
 
 It contains the following Unicode ranges:
 <pre>
@@ -34,9 +34,9 @@ Greek and Coptic U+0370-U+03FF 119/135
 <hr/>
 
 Note: 
-Lookup 'kern' Horizontal Kerning lookup 1 has an offset bigger than 65535 bytes. 
-This means FontForge must use an extension lookup to output it. 
-Not all applications support extension lookups. 
+Lookup 'kern' Horizontal Kerning lookup 1 has an offset bigger than 65535 bytes.  <br/>
+This means FontForge must use an extension lookup to output it.  <br/>
+Not all applications support extension lookups.  <br/>
 
 <hr/>
 
