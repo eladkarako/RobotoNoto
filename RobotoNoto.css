@@ -1,0 +1,19 @@
+@font-face{
+ font-weight:400; font-style:normal; font-display:swap; font-family:'RobotoNoto';
+ src: url('RobotoNoto.eot');
+ src: local('RobotoNoto')
+     ,local('RobotoNoto.ttf')
+     ,url('RobotoNoto.eot?#iefix')  format('embedded-opentype')
+     ,url('RobotoNoto.otf')         format('opentype')
+     ,url('RobotoNoto.ttf')         format('truetype')
+     ,url('RobotoNoto.woff2')       format('woff2')
+     ,url('RobotoNoto.woff')        format('woff')
+     ,url('RobotoNoto.svg#svg')     format('svg')
+     ;
+}
+/*★ 1st_font_webkit_gen - github.com/eladkarako ★*/
+
+html, input, textarea{  /*for example...*/
+  font-family: 'RobotoNoto', sans-serif;
+}
+
