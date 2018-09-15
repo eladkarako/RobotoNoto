@@ -37,3 +37,7 @@ Note:
 Lookup 'kern' Horizontal Kerning lookup 1 has an offset bigger than 65535 bytes. 
 This means FontForge must use an extension lookup to output it. 
 Not all applications support extension lookups. 
+
+<hr/>
+
+Note: in addition, you should consider taking <code>TwemojiMozilla.ttf</code> from the latest Nightly-Firefox ( https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-64.0a1.en-GB.win64.zip ) and using it for a better emoji-coverage.
